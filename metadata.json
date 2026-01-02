@@ -1,0 +1,7 @@
+{
+  "name": "EcoPulse AI - Energy Intelligence",
+  "description": "A sophisticated AI-driven energy management dashboard for IoT sensor monitoring and sustainability optimization.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
